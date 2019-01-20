@@ -8,5 +8,5 @@ Otherwise run `pip install -r requirements.txt`.
 After that run `jupyter notebook` in the checkout directory to view, edit and run `neuralnetwork.ipynb`.  
 On GitHub jupyter notebooks are rendered with the output, so if you only want to view it then downloading isn't necessary.
 
-### Sample training process
+### Sample training process visualized
 ![Training animation](training_anim.gif)
