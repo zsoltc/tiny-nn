@@ -6,3 +6,6 @@ Python 3 is needed to run the project. It depends on the `numpy` and `matplotlib
 Otherwise run `pip install -r requirements.txt`.
 
 After that run `jupyter notebook` in the checkout directory to view, edit and run `neuralnetwork.ipynb`.  
+
+### Sample training process
+![Training animation](training_anim.gif)
